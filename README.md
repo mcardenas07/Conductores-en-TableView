@@ -1,4 +1,4 @@
-#CAPTURA DEL CODIGO
+**CAPTURA DEL CODIGO**
 ![](https://i.ibb.co/KzsGhWR/21.png)
 
 #EXPLICACION DEL CODIGO
@@ -146,5 +146,6 @@ Este método filtra las filas de una tabla basándose en el texto de búsqueda i
 
 Similar a filterTable, pero específico para la tabla de pilotos.
 
-#RESUMEN DEL CODIGO
+**RESUMEN DEL CODIGO**
+
 En resumen, este código crea una aplicación GUI que permite visualizar y filtrar información de Fórmula 1 en varias categorías mediante el uso de pestañas y tablas, proporcionando una experiencia de usuario interactiva para explorar los datos de manera más eficiente.
