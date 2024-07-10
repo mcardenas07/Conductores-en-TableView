@@ -1,7 +1,8 @@
 **CAPTURA DEL CODIGO**
 ![](https://i.ibb.co/KzsGhWR/21.png)
 
-#EXPLICACION DEL CODIGO
+**EXPLICACION DEL CODIGO**
+
 Este código implementa una interfaz gráfica de usuario (GUI) para visualizar datos relacionados con la Fórmula 1, utilizando la biblioteca Swing de Java. La aplicación permite a los usuarios buscar y filtrar información en varias categorías como pilotos, vueltas, paradas en boxes, carreras, tiempos de carrera, temporadas y constructores.
 
 ***1. Importaciones:***
